@@ -1,0 +1,3 @@
+该工程为使用apache连接池维护LDAP连接
+该工程使用UTF-8编码
+LDAP连接池的使用详见test类

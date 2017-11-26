@@ -1,0 +1,3 @@
+log4j和commons-logging为log日志所需要包
+commons-pool用于连接池
+ldap为openldap-jldap连接包
